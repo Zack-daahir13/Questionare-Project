@@ -19,7 +19,7 @@ Welcome to **Questionare**, a frontend-only application built using **React.js**
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/zackdaahir/questionare.git
+git clone https://github.com/Zack-daahir13/Questionare-Project.git
 cd questionare
 ```
 ### 2️⃣ Install Dependencies
