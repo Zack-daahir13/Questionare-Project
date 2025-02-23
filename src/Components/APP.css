@@ -1,0 +1,71 @@
+/* App.css */
+
+.questionnaire-container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #f8f9fa;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .input-field {
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .upload-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .upload-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .questionnaire-list {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .questionnaire-item {
+    margin-bottom: 10px;
+  }
+  
+  .questionnaire-link {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .questionnaire-link:hover {
+    color: #0056b3;
+  }
+  
+  .disabled {
+    color: gray;
+    pointer-events: none; /* Ha u oggolaanin gujin mar kale */
+    text-decoration: line-through;
+  }
+  

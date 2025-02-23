@@ -1,0 +1,11 @@
+[
+    {
+      "title": "React Basics",
+      "lessons": 10,
+      "duration": "5h 30m",
+      "instructor": "Ali Abdi",
+      "price": 20,
+      "rating": 4.7,
+      "image": "./images/react-course.png"
+    }
+  ]

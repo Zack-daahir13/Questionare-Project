@@ -1,0 +1,87 @@
+/* Container styling */
+.leaderboard-container {
+    padding: 20px;
+    background-color: #1a1f38;
+    color: #e4e6f0;
+    border-radius: 15px;
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+.leaderboard-title {
+    font-size: 1.8rem;
+    color: #00d4ff;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Leaderboard styling */
+.leaderboard {
+    border: 2px solid #00d4ff;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #2b3354;
+}
+
+.player-row {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #444b6b;
+}
+
+.player-row:last-child {
+    border-bottom: none;
+}
+
+/* Medal styling */
+.player-rank {
+    width: 50px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.medal-icon {
+    width: 30px;
+    height: 30px;
+}
+
+/* Avatar styling */
+.player-avatar img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* Player information styling */
+.player-info {
+    flex: 1;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.player-name {
+    font-weight: bold;
+}
+
+.player-stars {
+    color: #ffc107;
+    font-size: 1rem;
+}
+
+.star {
+    color: #777;
+}
+
+.star.filled {
+    color: #ffc107;
+}
+
+/* Score styling */
+.player-score {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #e4e6f0;
+}
