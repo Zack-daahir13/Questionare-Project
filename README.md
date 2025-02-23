@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# 📝 Questionare Project - React.js 🎯
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Overview
+Welcome to **Questionare**, a frontend-only application built using **React.js** with **Pure CSS** for styling. This project provides an interactive and engaging experience for users by offering a multi-page platform that includes quizzes, books, courses, and a leaderboard to track progress. 🚀
 
-## Available Scripts
+## 🎯 Features
+✅ **Home Page** - A welcoming introduction with navigation to other sections.  
+✅ **Books Page** - A collection of educational books.  
+✅ **Questionare Page** - Interactive quizzes and assessments.  
+✅ **Leaderboard Page** - Displays top users and quiz scores.  
+✅ **Courses Page** - Lists available courses and materials.  
+✅ **Profile Page** - Personalized user profile information.  
+✅ **Fully Responsive Design** - Works seamlessly on mobile and desktop.  
 
-In the project directory, you can run:
+## 🛠️ Technologies Used
+- **Frontend:** React.js ⚛️
+- **Styling:** Pure CSS 🎨
 
-### `npm start`
+## 🔧 Installation & Setup
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/zackdaahir/questionare.git
+cd questionare
+```
+### 2️⃣ Install Dependencies
+```bash
+npm install
+npm start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/user-attachments/assets/b977d88a-4032-4b0e-b1b9-ec22c57fe9dc)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🖼️ **Home Page** - User-friendly interface with navigation.  
+🖼️ **Books Page** - Browse and read books.  
+🖼️ **Questionare Page** - Take interactive quizzes.  
+🖼️ **Leaderboard Page** - Track quiz performance.  
+🖼️ **Courses Page** - View available courses.  
+🖼️ **Profile Page** - Manage user information.  
 
-### `npm test`
+## 🚀 How It Works
+1️⃣ Open the application.  
+2️⃣ Navigate between different sections using the menu.  
+3️⃣ Engage with quizzes, books, courses, and leaderboard.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🤝 Contributions
+Feel free to fork the project and contribute! 🔥 Pull requests are welcome.  
 
-### `npm run build`
+## 📩 Contact
+👨‍💻 **Zack Daahir**  
+📧 Email: [zackdaahir909@gmail.com](mailto:zackdaahir909@gmail.com)  
+🌍 GitHub: [github.com/Zack-daahir13](https://github.com/zackdaahir)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
+_🚀 Learn, practice, and track your progress with Questionare! 📚💡_
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
